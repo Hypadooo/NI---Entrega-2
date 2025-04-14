@@ -9,5 +9,4 @@ Projeto desenvolvido para a disciplina de **Programação Mobile** do curso de *
 - **Professor:** Vinicius Heltai  
 - **Semestre:** 3º  
 - **Disciplina:** Programação Mobile
-- **Instituição:** FECAPVocê pode utilizar **qualquer uma das opções abaixo** para abrir e testar o projeto:
-
+- **Instituição:** FECAP
